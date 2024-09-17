@@ -1,10 +1,10 @@
 LIVROS:
 
-livro de artes
-cartões de armas
-chamado de cthulhu 7e
-chamado de cthulhu colheita fria
-chamado de cthulhu livro basico
-chamado de cthulhu tribal dance
-chamado de cthulhu fast play
+livro de artes <br>
+cartões de armas <br>
+chamado de cthulhu 7e <br>
+chamado de cthulhu colheita fria <br>
+chamado de cthulhu livro basico <br>
+chamado de cthulhu tribal dance <br>
+chamado de cthulhu fast play <br>
 chamado de cthulhu escudo 7e
